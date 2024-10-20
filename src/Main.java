@@ -12,5 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Bogdan loh");
+        System.out.println("Bogdan loh");
     }
 }
